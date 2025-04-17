@@ -1,4 +1,4 @@
-# Projeto para análise de dados e geração de insights com a utilziação de assistentes de IA.
+## Projeto para análise de dados e geração de insights com a utilização de assistentes de IA.
 
 
 # Características
